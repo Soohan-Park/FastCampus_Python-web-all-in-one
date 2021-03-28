@@ -4,3 +4,6 @@ include/
 Scripts/
 .vscode/
 pyvenv.cfg
+
+# resources
+resource/
